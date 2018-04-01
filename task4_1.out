@@ -1,0 +1,18 @@
+--- Hardware ---
+CPU: Intel(R) Xeon(R) CPU E5-2676 v3 @ 2.40GHz
+RAM: 1014540 kB
+Motherboard: 
+System Serial Number: ec2bc7f8-6cae-859e-5fe9-7c21c7b65b2b
+--- System ---
+OS Distribution: Ubuntu 16.04.4 LTS
+Kernel version: 4.4.0-1052-aws
+Installation date: 26 Jan 06:01
+Hostname: ip-172-31-38-212
+Uptime: up 1 day, 22 hours, 21 minutes
+Processes running: 118
+User logged in: 1
+--- Network ---
+<iface #1 br-9feda6a77216>: 172.18.0.1/16
+<iface #2 docker0>: 172.17.0.1/16
+<iface #3 eth0>: 172.31.38.212/20
+<iface #4 lo>: 127.0.0.1/8
